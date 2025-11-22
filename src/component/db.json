@@ -1,0 +1,154 @@
+{
+  "articles": [
+    {
+      "url": "https://example.com/1",
+      "title": "My News 1",
+      "description": "This is the description of news article 1",
+      "urlToImage": "https://picsum.photos/200?random=1"
+    },
+    {
+      "url": "https://example.com/2",
+      "title": "My News 2",
+      "description": "This is the description of news article 2",
+      "urlToImage": "https://picsum.photos/200?random=2"
+    },
+    {
+      "url": "https://example.com/3",
+      "title": "My News 3",
+      "description": "This is the description of news article 3",
+      "urlToImage": "https://picsum.photos/200?random=3"
+    },
+    {
+      "url": "https://example.com/4",
+      "title": "My News 4",
+      "description": "This is the description of news article 4",
+      "urlToImage": "https://picsum.photos/200?random=4"
+    },
+    {
+      "url": "https://example.com/5",
+      "title": "My News 5",
+      "description": "This is the description of news article 5",
+      "urlToImage": "https://picsum.photos/200?random=5"
+    },
+    {
+      "url": "https://example.com/6",
+      "title": "My News 6",
+      "description": "This is the description of news article 6",
+      "urlToImage": "https://picsum.photos/200?random=6"
+    },
+    {
+      "url": "https://example.com/7",
+      "title": "My News 7",
+      "description": "This is the description of news article 7",
+      "urlToImage": "https://picsum.photos/200?random=7"
+    },
+    {
+      "url": "https://example.com/8",
+      "title": "My News 8",
+      "description": "This is the description of news article 8",
+      "urlToImage": "https://picsum.photos/200?random=8"
+    },
+    {
+      "url": "https://example.com/9",
+      "title": "My News 9",
+      "description": "This is the description of news article 9",
+      "urlToImage": "https://picsum.photos/200?random=9"
+    },
+    {
+      "url": "https://example.com/10",
+      "title": "My News 10",
+      "description": "This is the description of news article 10",
+      "urlToImage": "https://picsum.photos/200?random=10"
+    },
+    {
+      "url": "https://example.com/11",
+      "title": "My News 11",
+      "description": "This is the description of news article 11",
+      "urlToImage": "https://picsum.photos/200?random=11"
+    },
+    {
+      "url": "https://example.com/12",
+      "title": "My News 12",
+      "description": "This is the description of news article 12",
+      "urlToImage": "https://picsum.photos/200?random=12"
+    },
+    {
+      "url": "https://example.com/13",
+      "title": "My News 13",
+      "description": "This is the description of news article 13",
+      "urlToImage": "https://picsum.photos/200?random=13"
+    },
+    {
+      "url": "https://example.com/14",
+      "title": "My News 14",
+      "description": "This is the description of news article 14",
+      "urlToImage": "https://picsum.photos/200?random=14"
+    },
+    {
+      "url": "https://example.com/15",
+      "title": "My News 15",
+      "description": "This is the description of news article 15",
+      "urlToImage": "https://picsum.photos/200?random=15"
+    },
+    {
+      "url": "https://example.com/16",
+      "title": "My News 16",
+      "description": "This is the description of news article 16",
+      "urlToImage": "https://picsum.photos/200?random=16"
+    },
+    {
+      "url": "https://example.com/17",
+      "title": "My News 17",
+      "description": "This is the description of news article 17",
+      "urlToImage": "https://picsum.photos/200?random=17"
+    },
+    {
+      "url": "https://example.com/18",
+      "title": "My News 18",
+      "description": "This is the description of news article 18",
+      "urlToImage": "https://picsum.photos/200?random=18"
+    },
+    {
+      "url": "https://example.com/19",
+      "title": "My News 19",
+      "description": "This is the description of news article 19",
+      "urlToImage": "https://picsum.photos/200?random=19"
+    },
+    {
+      "url": "https://example.com/20",
+      "title": "My News 20",
+      "description": "This is the description of news article 20",
+      "urlToImage": "https://picsum.photos/200?random=20"
+    },
+    {
+      "url": "https://example.com/21",
+      "title": "My News 21",
+      "description": "This is the description of news article 21",
+      "urlToImage": "https://picsum.photos/200?random=21"
+    },
+    {
+      "url": "https://example.com/22",
+      "title": "My News 22",
+      "description": "This is the description of news article 22",
+      "urlToImage": "https://picsum.photos/200?random=22"
+    },
+    {
+      "url": "https://example.com/23",
+      "title": "My News 23",
+      "description": "This is the description of news article 23",
+      "urlToImage": "https://picsum.photos/200?random=23"
+    },
+    {
+      "url": "https://example.com/24",
+      "title": "My News 24",
+      "description": "This is the description of news article 24",
+      "urlToImage": "https://picsum.photos/200?random=24"
+    },
+    {
+      "url": "https://example.com/25",
+      "title": "My News 25",
+      "description": "This is the description of news article 25",
+      "urlToImage": "https://picsum.photos/200?random=25"
+    }
+  ]
+}
