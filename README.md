@@ -105,8 +105,8 @@ Navbar:
 
 <br><br>
 
-Home Page:
-<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/88c222d6-1847-4ae0-ba13-8d00ecf93b08" />
+General Page:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/30b305c2-05a9-467e-94d5-55bc5c5653e2" />
 
 <br><br>
 
