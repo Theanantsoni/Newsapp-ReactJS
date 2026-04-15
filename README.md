@@ -1,70 +1,133 @@
-# Getting Started with Create React App
+# 📰 NewsApp - React JS Web App
+**Author:** Anant Soni
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive **news web application** built using **React.js**, which fetches real-time data from a News API and displays categorized news with a clean UI.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- 🌐 Real-time News API integration
+- 📰 Category-based news (Business, Sports, Tech, etc.)
+- 🔄 Dynamic data rendering using React
+- 📦 Reusable component-based architecture
+- ⏳ Loading spinner for better UX
+- 📄 News cards with image, title, description & source
+- 🔁 Pagination / Infinite scroll support
+- 🎨 Clean and responsive UI design
+- ⚡ Fast performance with optimized rendering
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧱 Tech Stack
 
-### `npm test`
+- React.js  
+- JavaScript (ES6+)  
+- CSS / Bootstrap  
+- News API (External)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📁 Project Structure
+```bash
+src/
+├── component/
+│ ├── Navbar.js # Navigation bar (categories)
+│ ├── News.js # Fetch & render news
+│ ├── NewsItem.js # Single news card
+│ ├── Spinner.js # Loading spinner
+│ ├── db.json # Sample data (optional)
+│
+├── App.js # Routing + layout
+├── index.js # Entry point
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖥️ Installation & Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Clone the repository
+git clone https://github.com/Theanantsoni/TextUtils-ReactJS
 
-### `npm run eject`
+# Navigate to project
+cd newsapp
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Install dependencies
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Run development server
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+👉 Open in browser:
+http://localhost:3000
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+📊 Key Functionalities
+Fetch and display real-time news using API
+Switch categories dynamically via navbar
+Render news using reusable components
+Show loading spinner during API calls
+Display structured news cards
+🧠 Important Concepts Used
+useState (state management)
+useEffect (API lifecycle handling)
+Props (component communication)
+Conditional rendering (loader handling)
+Map function (list rendering)
 
-## Learn More
+💡 Project Insight
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project demonstrates how to build a real-world application using React and API integration, focusing on:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Dynamic data handling
+Clean UI design
+Component-based architecture
+🚀 Future Improvements
+🔍 Search functionality
+🌙 Dark mode
+🔖 Bookmark articles
+👤 User authentication
+🗄 Backend integration (MongoDB)
+⭐ Conclusion
 
-### Code Splitting
+NewsApp is a solid project for understanding:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+✔ API Integration
+✔ React fundamentals
+✔ UI/UX design
 
-### Analyzing the Bundle Size
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Screenshots:
 
-### Making a Progressive Web App
+Navbar:
+<img width="1919" height="108" alt="image" src="https://github.com/user-attachments/assets/bac91a87-8b64-4da8-afb6-c74082cf5cd4" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br><br>
 
-### Advanced Configuration
+Home Page:
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/88c222d6-1847-4ae0-ba13-8d00ecf93b08" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br><br>
 
-### Deployment
+Business Page:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/11f4ea84-9eca-41f6-ad4b-23f053f1866e" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<br><br>
 
-### `npm run build` fails to minify
+Science Page:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/68aa004d-907e-455d-8d8f-39b4444dfdb5" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br><br>
+
+🎥 Demo Video
+
+<br><br>
+
+🔗 Connect with Me
+
+👉 LinkedIn:
+https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+
