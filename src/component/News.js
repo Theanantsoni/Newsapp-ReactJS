@@ -233,7 +233,7 @@ const News = (props) => {
 
 useEffect(() => {
   console.log("Title update for category:", props.category);
-  document.title = `${capitalizeFirstLetter(props.category)} - News Monkey`;
+  document.title = `${capitalizeFirstLetter(props.category)} - News-app`;
   updateNews();
 }, [props.category]);
 
