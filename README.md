@@ -98,7 +98,7 @@ NewsApp is a solid project for understanding:
 
 ```
 
-Screenshots:
+📸 Screenshots
 
 Navbar:
 <img width="1919" height="108" alt="image" src="https://github.com/user-attachments/assets/bac91a87-8b64-4da8-afb6-c74082cf5cd4" />
